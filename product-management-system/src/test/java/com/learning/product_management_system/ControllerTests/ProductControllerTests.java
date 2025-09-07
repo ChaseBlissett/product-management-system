@@ -74,10 +74,10 @@ public class ProductControllerTests {
 
         String productJson = """
                 {
-                "name" : "pizza",
-                "description" : "yummy",
-                "quantity" : 56,
-                "price" : 20.60
+                "name" : "test",
+                "description" : "test1",
+                "quantity" : 100,
+                "price" : 1000
                 }
                 """;
 
